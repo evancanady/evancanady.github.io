@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Comfort Zone
-categories: Status Update
+categories: Status_Update
 ---
 
 I spent this past week trying to figure out where to start. Based on a few recommendations I bought *Think Stats* by Allen Downey and tried to use it as a re-introduction to the material. Though, it was obvious after the first chapter that I'm not ready for it yet. The book glosses over some Python/Pandas topics and jumps straight into the mathematical concepts of data analysis. I suppose that should have seen that coming by the title.
