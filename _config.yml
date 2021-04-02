@@ -115,6 +115,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/evancanady"
+    - label: 'LinkedIn'
+      icon: "fab fa-wa fa-linkedin"
+      url: "https://www.linkedin.com/in/ecanady/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
