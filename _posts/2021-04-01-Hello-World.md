@@ -3,9 +3,6 @@ title: "Hello World"
 excerpt: "They say writing distills your thoughts and highlights gaps in logic and understanding."
 categories:
 tags:
-  - content
-  - excerpt
-  - layout
 ---
 
 They say writing distills your thoughts and highlights gaps in logic and understanding. I suppose that's what I'm trying to do here - to get a better understanding of my own thoughts, beliefs, doubts, biases, strengths, weaknesses. I could go on.
