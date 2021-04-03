@@ -20,7 +20,7 @@ title                    : "Evan Canady"
 title_separator          : "-"
 subtitle                 : "figuring it all out"
 name                     : "Evan Canady"
-description              : "random words"
+description              : "The personal site of Evan Canady."
 url                      : "https://evancanady.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "evancanady/evancanady.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Evan Canady"
   avatar           : "https://github.com/evancanady.png"
-  bio              : #"I am an **amazing** person."
+  bio              : "amateur human"
   location         : "Atlanta, GA"
   email            :
   links:
@@ -134,6 +134,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/evancanady"
+    - label: 'LinkedIn'
+      icon: "fab fa-wa fa-linkedin"
+      url: "https://www.linkedin.com/in/ecanady/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
