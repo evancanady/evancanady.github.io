@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "defualt" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -135,8 +135,11 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/evancanady"
     - label: 'LinkedIn'
-      icon: "fab fa-wa fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/ecanady/"
+    - label: 'Sitemap'
+      icon: 'fab fa-fw fa-sitemap'
+      url: /sitemap/
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
