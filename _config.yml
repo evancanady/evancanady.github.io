@@ -137,9 +137,6 @@ footer:
     - label: 'LinkedIn'
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/ecanady/"
-    - label: 'Sitemap'
-      icon: 'fab fa-fw fa-sitemap'
-      url: /sitemap/
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
