@@ -3,8 +3,8 @@ title: "Learning Python"
 excerpt: "Over the past several years I've sporadically bought books, watched videos, enrolled in online courses, and spent countless hours on Stack Overflow trying to learn Python."
 categories:
 tags:
-	- Python
-	- Learning
+  - Python
+  - Learning
 ---
 
 Over the past several years I've sporadically bought books, watched videos, enrolled in online courses, and spent countless hours on Stack Overflow trying to learn Python. All that starting and stopping has made me re-learn the very basics many times over. Which is both annoying and helpful. I've now reviewed 'what is a variable' and 'how to write a function' eight or ten times. Each time I jump back into things I dig a deeper and expand my understanding. It's not the most efficient way to learn something new, but it's working - or at least it's not failing.
