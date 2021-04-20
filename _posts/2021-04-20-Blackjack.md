@@ -7,9 +7,9 @@ tags:
   - Learning
 ---
 
-#####I wrote a Python program that will simulate a number of Blackjack games. It allows you to change variables like, number of players, number of decks, player hit strategies, and player split strategies. The results of each hand are written to a Pandas DataFrame and pickled where it's then read into a Jupyter Notebook and analyzed. It's still a work in progress, but I'm at a place where I can summarize what I have so far.
+##### I wrote a Python program that will simulate a number of Blackjack games. It allows you to change variables like, number of players, number of decks, player hit strategies, and player split strategies. The results of each hand are written to a Pandas DataFrame and pickled where it's then read into a Jupyter Notebook and analyzed. It's still a work in progress, but I'm at a place where I can summarize what I have so far.
 
-#####It's ugly and inefficient, but it's mine and it works (as far as I can tell). This is the first thing I've written that I'd classify as a *program*. Everything I've done prior to this has been a one-off, throw-away script.
+##### It's ugly and inefficient, but it's mine and it works (as far as I can tell). This is the first thing I've written that I'd classify as a *program*. Everything I've done prior to this has been a one-off, throw-away script.
 
 Keep reading, or go straight to the code [here](https://github.com/evancanady/Blackjack).
 
