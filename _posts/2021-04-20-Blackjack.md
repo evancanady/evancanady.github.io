@@ -1,6 +1,6 @@
 ---
 title: "Blackjack Simulator"
-excerpt: "I wrote a Python program that will simulate a number of games of Blackjack."
+excerpt: "I wrote a Python program that will simulate a number of games of Blackjack and learned a lot in the process."
 categories:
 tags:
   - Python
