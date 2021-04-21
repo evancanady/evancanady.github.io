@@ -34,3 +34,5 @@ This experience has supported my thought that there are (at least) two distinct 
 So far it’s been fun to figure out how to solve problems and sometimes create new ones in the process. Like I stated earlier, I have no doubt what I’ve written would be considered ugly and inefficient by someone more capable. But, I’m proud of what I was able to do on my own. Every time I sit down to work on it I figure out a slightly better solution to a problem, and to me that’s the whole point. 
 
 I'll post again once I get the model finished and I start to make sense of the results.
+
+[Blackjack](https://github.com/evancanady/Blackjack)
