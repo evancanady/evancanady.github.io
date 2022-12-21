@@ -1,0 +1,13 @@
+---
+title: "Daquiri"
+excerpt: "The real daquiri."
+categories:
+tags:
+    - Cocktails
+---
+
+Aged Rum - 2 1/2 oz
+Fresh lime juice - 3/4 oz
+2:1 Simple syrup - 1/2 oz
+
+Shake with ice; Strain; Serve in a chilled coupe
