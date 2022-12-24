@@ -1,6 +1,6 @@
 ---
 title: "Whiskey Spice Rack"
-excerpt:
+excerpt: "Great cold-weather cocktail."
 categories:
 tags:
     - Cocktails

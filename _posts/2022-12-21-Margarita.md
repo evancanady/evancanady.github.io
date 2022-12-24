@@ -1,15 +1,13 @@
 ---
-title: "Dirty Tequila"
-excerpt:
+title: "Margarita"
+excerpt: "Straight forward"
 categories:
 tags:
     - Cocktails
 ---
 
-* Tequila - 1 1/2 oz
-* Mezcal - 1 1/2 oz
-* Agave - 1/2 oz
-* Grenadine - 1/4 oz
-* Bitters - 2-3 dashes
+* Tequila - 2 oz
+* Fresh lime juice - 1 oz
+* Cointreau - 3/4 oz
 
-Shake with ice; strain; serve over ice with cherry
+Shake with ice; Strain; serve over ice with lime wedge

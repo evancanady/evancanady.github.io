@@ -1,6 +1,6 @@
 ---
 title: "Oleo Saccharum"
-excerpt:
+excerpt: "The Morgenthaler-method."
 categories:
 tags:
     - Cocktails

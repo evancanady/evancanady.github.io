@@ -1,6 +1,6 @@
 ---
 title: "Boulevardier"
-excerpt: 
+excerpt: "Like a negroni, but with whiskey."
 categories:
 tags:
     - Cocktails

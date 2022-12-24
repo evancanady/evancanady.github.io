@@ -1,6 +1,6 @@
 ---
 title: "Chatham Artillery Punch"
-excerpt: "There will be a few casualties."
+excerpt: "There will be casualties."
 categories:
 tags:
     - Cocktails

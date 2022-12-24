@@ -1,13 +1,15 @@
 ---
-title: "Margarita"
-excerpt:
+title: "Dirty Tequila"
+excerpt: "Another way to use that mezcal you bought."
 categories:
 tags:
     - Cocktails
 ---
 
-* Tequila - 2 oz
-* Fresh lime juice - 1 oz
-* Cointreau - 3/4 oz
+* Tequila - 1 1/2 oz
+* Mezcal - 1 1/2 oz
+* Agave - 1/2 oz
+* Grenadine - 1/4 oz
+* Bitters - 2-3 dashes
 
-Shake with ice; Strain; serve over ice with lime wedge
+Shake with ice; strain; serve over ice with cherry

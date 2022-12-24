@@ -1,6 +1,6 @@
 ---
 title: "Whiskey Sour"
-excerpt:
+excerpt: "Super-smooth thanks to the egg white"
 categories:
 tags:
     - Cocktails

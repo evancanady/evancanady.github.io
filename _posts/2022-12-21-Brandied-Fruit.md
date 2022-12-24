@@ -1,6 +1,6 @@
 ---
 title: "Brandied Fruit"
-excerpt:
+excerpt: "Cocktail enhancer"
 categories:
 tags:
     - Cocktails
