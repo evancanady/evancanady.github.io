@@ -1,6 +1,6 @@
 ---
 title: "Principles"
-excerpt: ""
+excerpt: "Principles of life"
 categories:
 tags:
     - Ideas
@@ -8,7 +8,7 @@ tags:
 
 ### Principles of Life
 
-Other's principles to read and steal.
+Others' principles to read and steal.
 
 * [Things I Know to be True](https://eightateeight.wordpress.com/2014/09/20/things-i-know-to-be-true/)
 * [All I Really Need to Know](http://theory.caltech.edu/~preskill/all-i-really-need-to-know.pdf)
